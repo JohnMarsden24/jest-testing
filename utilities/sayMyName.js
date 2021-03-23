@@ -1,0 +1,1 @@
+exports.sayMyName = (name) => name;
